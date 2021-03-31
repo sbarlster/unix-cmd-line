@@ -10,11 +10,11 @@ Your goto things!
 A mini toolbox.
 
 
-## One - Who and where am I?
+## One - Who am I and where is this?
 
 ## Two - What can I see around me?
 
-## Three Am I allowed to travel?
+## Three - Am I allowed to travel?
 
 ## Four - Can I create stuff?
 
@@ -26,7 +26,7 @@ A mini toolbox.
 
 ## Eight - Going back in history?
 
-## Nine - 
+## Nine - Getting to other worlds?
 
-## Ten - 
+## Ten - Taking my baggage with me?
 
