@@ -13,16 +13,28 @@ Start small and slowly expand.
 
 
 ## Who am I and where is this?
-whoami pwd ~
+```shell
+whoami
+pwd
+~
+```
 
 ## What can I see around me?
-ls ls and more ls
+```shell
+ls
+```
 
 ## Am I allowed to travel?
+```shell
 cd
+```
 
 ## Can I create stuff?
-mkdir touch vi
+```shell
+mkdir
+touch
+vi
+```
 
 ## And what if I dont like that stuff?
 rm
