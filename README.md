@@ -13,43 +13,60 @@ Start small and slowly expand.
 
 
 ## Who am I and where is this?
-```shell
+```bash
 whoami
 pwd
 ~
 ```
 
 ## What can I see around me?
-```shell
+```bash
 ls
 ```
 
 ## Am I allowed to travel?
-```shell
+```bash
 cd
 ```
 
 ## Can I create stuff?
-```shell
+```bash
 mkdir
 touch
 vi
 ```
 
 ## And what if I dont like that stuff?
+```bash
 rm
+```
 
 ## Ive lost the stuff, how can I find it?
-find grep
+```bash
+find
+grep
+```
 
 ## What else is happening here?
-ps systemctl
+```bash
+ps
+systemctl
+```
 
 ## Going back in history?
-up-arrow ctrl-r history !
+```bash
+up-arrow
+ctrl-r
+history
+!
+```
 
 ## Getting to other worlds?
+```bash
 ssh
+```
 
 ## Taking my bags with me?
+```bash
 scp
+```
