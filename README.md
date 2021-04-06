@@ -14,25 +14,24 @@ Start small and slowly expand. One area each day. Do not rush.
 
 ## Who am I and where is this?
 ```bash
-whoami
-pwd
+whoami, pwd
 ```
 
 So you arrive at your new machine and login and open a terminal. And you are presented with something like...
-```
+```bash
 >
 ```
 the first thing you will want to know is... ___Who am I???___ Well, fortunately unix has just the command for you...
-```
+``` bash
 > whoami
 ```
 it is very simple and returns a response of who is currently logged into the machine.
 
 Next question is... __Where am I???__ Again unix has just the command for you...
-```
+``` bash
 > pwd
 ```
-otherwise known as _print working directory_. It returns a simple resonse of what directory you are currenty in.
+otherwise known as _print working directory_. It returns a simple resonse of what directory you are currenty in. It is always good to know where you are. Especially if your memory is as short as mine.
 
 
 
@@ -43,15 +42,12 @@ ls
 
 ## Am I allowed to travel?
 ```bash
-cd
-~
+cd, ~
 ```
 
 ## Can I create stuff?
 ```bash
-mkdir
-touch
-vi
+mkdir, touch, vi
 ```
 
 ## And what if I dont like that stuff?
@@ -61,30 +57,20 @@ rm
 
 ## Ive lost the stuff, how can I find it?
 ```bash
-find
-grep
+find, grep
 ```
 
 ## What else is happening here?
 ```bash
-ps
-systemctl
+ps, systemctl
 ```
 
 ## Going back in history?
 ```bash
-up-arrow
-ctrl-r
-history
-!
+up-arrow, ctrl-r, history, !
 ```
 
-## Getting to other worlds?
+## Getting to other worlds and taking my luggage?
 ```bash
-ssh
-```
-
-## Taking my bags with me?
-```bash
-scp
+ssh, scp
 ```
