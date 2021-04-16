@@ -14,10 +14,10 @@ Start small and slowly expand. One area each day. Do not rush.
 
 ## Who am I and where is this?
 ```bash
-whoami, pwd
+whoami, pwd, hostname
 ```
 
-So you arrive at your new machine and login and open a terminal. And you are presented with something like...
+So you arrive at your new machine and login and open a terminal. And you are presented with your prompt, something like...
 ```bash
 >
 ```
@@ -33,7 +33,11 @@ Next question is... __Where am I???__ Again unix has just the command for you...
 ```
 otherwise known as _print working directory_. It returns a simple resonse of what directory you are currenty in. It is always good to know where you are. Especially if your memory is as short as mine.
 
-
+And finally... __What machine am I on?__ Again unit has a quick answer...
+```bash
+> hostname
+```
+which responds with the name of the machine.
 
 ## What can I see around me?
 ```bash
