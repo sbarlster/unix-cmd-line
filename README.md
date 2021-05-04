@@ -12,7 +12,7 @@ A mini toolbox.
 Start small and slowly expand. One area each day. Do not rush.
 
 
-## Who am I and where is this?
+## Who am I and where are we?
 ```bash
 whoami, pwd, hostname
 ```
@@ -31,9 +31,9 @@ Next question is... __Where am I???__ Again unix has just the command for you...
 ``` bash
 > pwd
 ```
-otherwise known as _print working directory_. It returns a simple resonse of what directory you are currenty in. It is always good to know where you are. Especially if your memory is as short as mine.
+otherwise known as _print working directory_. It returns the simple resonse of your current directory. It is always good to know where you are. Especially if your memory is as short as mine.
 
-And finally... __What machine am I on?__ Again unit has a quick answer...
+And finally... __What machine am I on?__ Again unix has a quick answer...
 ```bash
 > hostname
 ```
